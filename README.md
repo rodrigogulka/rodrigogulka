@@ -9,7 +9,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou estudante de Engenharia de Software e tenho formação técnica em Desenvolvimento de Sistemas. Gosto de aprender programação de forma simples e clara, e estou em busca de experiências práticas na área de desenvolvimento, principalmente com C#.
+Sou estudante de Engenharia de Software e tenho formação técnica em Desenvolvimento de Sistemas. Gosto de aprender programação de forma simples e clara, e estou sempre buscando aprendizado e práticas na área de desenvolvimento, principalmente em Front-End.
 
 - 🎯 **Objetivo:** Desenvolver minhas habilidades como programador e me preparar tanto espiritualmente quanto tecnicamente para desafios futuros.
 - 📚 **Atualmente estudando:** C#, Angular2, Lógica de Programação e Estrutura de Dados.
@@ -19,7 +19,7 @@ Sou estudante de Engenharia de Software e tenho formação técnica em Desenvolv
 ### 🛠️ Habilidades Técnicas
 
 - **Linguagens:** C#, HTML, CSS, TypeScript, JavaScript (básico), Python (básico)
-- **Ferramentas:** Git, Visual Studio, VS Code
+- **Ferramentas:** Git, Visual Studio, GitHub
 - **Banco de Dados:** MySQL (básico), SQL Server (em aprendizado)
 - **Outros:** Lógica de Programação, POO, versionamento com GitHub
 
@@ -57,8 +57,8 @@ Estagiário de T.I na Ucred Serviços Financeiros
 ### 📫 Contato
 
 - 📧 Email: gulkarodrigo@gmail.com  
-- 🔗 GitHub: [github.com/seu-usuario-aqui](https://github.com/rodrigogulka)  
-- 🔗 LinkedIn: [linkedin.com/in/seu-perfil-aqui](https://linkedin.com/in/rodrigo-samuel-gulka)
+- 🔗 GitHub: [github.com/rodrigogulka](https://github.com/rodrigogulka)  
+- 🔗 LinkedIn: [linkedin.com/in/rodrigo-samuel-gulka](https://linkedin.com/in/rodrigo-samuel-gulka-544032313)
 
 ---
 
