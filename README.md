@@ -65,5 +65,5 @@ Estagiário de T.I na Ucred Serviços Financeiros
 ### 🙏 Outros
 
 - Fluência em Inglês e Espanhol
-- Me preparando para ser um Dev Front-End
+- Estudando para ser um Desenvolvedor Front-End e Engenheiro de Software
 - Princípios de autodisciplina, responsabilidade, honestidade e serviço ao próximo
