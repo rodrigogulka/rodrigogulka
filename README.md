@@ -3,7 +3,7 @@
 **Estudante de Engenharia de Software | Desenvolvedor em Formação**
 
 📍 Curitiba, PR  
-🔗 [GitHub](https://github.com/rodrigogulka) | [LinkedIn](https://linkedin.com/in/rodrigo-samuel-gulka)
+🔗 [GitHub](https://github.com/rodrigogulka) | [LinkedIn](https://linkedin.com/in/rodrigo-samuel-gulka-544032313)
 
 ---
 
