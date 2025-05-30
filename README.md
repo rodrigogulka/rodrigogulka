@@ -11,7 +11,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou estudante de Engenharia de Software e tenho formação técnica em Desenvolvimento de Sistemas. Gosto da programação de forma simples e clara, e estou sempre buscando aprendizado e práticas na área de desenvolvimento, com uma atenção maior em Front-End.
+Sou estudante de Engenharia de Software e tenho formação técnica em Análise e Desenvolvimento de Sistemas. Gosto da programação de forma simples e clara, e estou sempre buscando aprendizado e práticas na área de desenvolvimento, com uma atenção maior em Front-End.
 
 - 🎯 **Objetivo:** Desenvolver minhas habilidades como programador e me preparar tanto espiritualmente quanto tecnicamente para desafios futuros.
 - 📚 **Atualmente estudando:** C#, Angular2, Lógica de Programação e Estrutura de Dados.
