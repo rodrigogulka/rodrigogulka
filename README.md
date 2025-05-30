@@ -54,7 +54,9 @@ Início: 2025 – Previsão de Conclusão: 2028
 
 ### 📈 Experiência Profissional
 
-Estagiário de T.I na Ucred Serviços Financeiros
+**Estagiário de T.I**<br>
+Ucred Serviços Financeiros<br>
+2025 - Atualmente<br><br>
 
 ---
 
