@@ -18,10 +18,10 @@ Sou estudante de Engenharia de Software e tenho formação técnica em Desenvolv
 
 ### 🛠️ Habilidades Técnicas
 
-- **Linguagens:** C#, HTML, CSS, TypeScript, JavaScript (básico), Python (básico)
+- **Linguagens:** C#, HTML, CSS, TypeScript (básico), JavaScript (básico), Python (básico)
 - **Ferramentas:** Git, Visual Studio, GitHub
-- **Banco de Dados:** MySQL (básico), SQL Server (em aprendizado)
-- **Outros:** Lógica de Programação, POO, versionamento com GitHub
+- **Banco de Dados:** SQL Server (em aprendizado)
+- **Outros:** Lógica de Programação, versionamento com GitHub
 
 ---
 
@@ -31,6 +31,7 @@ Sou estudante de Engenharia de Software e tenho formação técnica em Desenvolv
 |--------|-----------|-------------|
 | Calculadora em C# e JS | Aplicação de console para realizar operações matemáticas. | C# |
 | Portfólio em Angular2 | Página pessoal para desnvolvimento em Angular. | Angular2 |
+| Jogo no Roblox | Jogo em que fiz a escola e sua estrutura dentro do Roblox. | Roblox Creator |
 | Jogo da Adivinhação | Jogo simples no terminal para adivinhar números. | C#, Lógica de Programação |
 | Página de Portfólio | Página HTML pessoal com suas informações. | HTML, CSS |
 
