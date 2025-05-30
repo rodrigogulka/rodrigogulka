@@ -55,6 +55,9 @@ Estagiário de T.I na Ucred Serviços Financeiros
 ---
 
 ### 📫 Contato
+<div>
+   <a href="https://instagram.com/rsgulka" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
 - 📧 Email: gulkarodrigo@gmail.com  
 - 🔗 GitHub: [github.com/rodrigogulka](https://github.com/rodrigogulka)  
