@@ -5,8 +5,8 @@
 📍 Curitiba, PR  
 🔗 [GitHub](https://github.com/rodrigogulka) | [LinkedIn](https://linkedin.com/in/rodrigo-samuel-gulka-544032313)
 #
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1500&color=00FF00&center=true&vCenter=true&width=600&lines=Olá,Bem-Vindo+ao+meu+perfil!|Obrigado+pela+visita!|Sinta-se+à+vontade+para+explorar+meus+projetos!)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Olá,+Seja+Bem-Vindo+ao+meu+perfil!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi,+Welcome+To+My+Profile!)
 
 ---
 
