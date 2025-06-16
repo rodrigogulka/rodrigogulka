@@ -31,11 +31,11 @@ Sou estudante de Engenharia de Software e tenho formação técnica em Análise 
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| Calculadora em C# e JS | Aplicação de console para realizar operações matemáticas. | C# |
-| Portfólio em Angular2 | Página pessoal para desenvolvimento em Angular. | Angular2 - Front-End |
+| Calculadora em C# e JS | Aplicação de console para realizar operações matemáticas. | JavaScript |
+| Portfólio em Angular2 | Página pessoal para desenvolvimento em Angular. | Angular2 / Front-End |
 | Jogo no Roblox | Jogo em que fiz a escola e sua estrutura dentro do Roblox. | Roblox Creator |
 | Jogo da Adivinhação | Jogo simples no terminal para adivinhar números. | C#, Lógica de Programação |
-| Página de Portfólio | Página HTML pessoal com suas informações. | HTML, CSS |
+| Lista de Tarefas | Lista de Atividades Dinâmica | HTML, CSS, TypeScript |
 
 ---
 
