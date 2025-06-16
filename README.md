@@ -41,13 +41,14 @@ Sou estudante de Engenharia de Software e tenho formação técnica em Análise 
 
 ### 🎓 Formação Acadêmica
 
-**Curso Técnico em Desenvolvimento de Sistemas**<br>
-Colégio Yvone Pimentel<br>
-Concluído em: 2024<br><br>
-
 **Engenharia de Software (em andamento)**<br>
 Unicesumar - Presencial<br>
 Início: 2025 – Previsão de Conclusão: 2028
+
+
+**Curso Técnico em Desenvolvimento de Sistemas**<br>
+Colégio Yvone Pimentel<br>
+Concluído em: 2024<br><br>
 
 
 ---
