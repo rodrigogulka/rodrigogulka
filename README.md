@@ -11,16 +11,16 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou estudante de Engenharia de Software e tenho formação técnica em Análise e Desenvolvimento de Sistemas. Gosto da programação de forma simples e clara, e estou sempre buscando aprendizado e práticas na área de desenvolvimento, com uma atenção maior em Front-End.
+Sou estudante de Engenharia de Software com formação técnica em Análise e Desenvolvimento de Sistemas. Gosto da programação de forma simples e clara, e estou sempre buscando aprendizado e práticas na área de desenvolvimento, com uma atenção maior em Front-End.
 
 - 🎯 **Objetivo:** Desenvolver minhas habilidades como programador e me preparar tanto espiritualmente quanto tecnicamente para desafios futuros.
-- 📚 **Atualmente estudando:** C#, Angular2, Lógica de Programação e Estrutura de Dados.
+- 📚 **Atualmente estudando:** AngularJS, Git, Tailwind, Lógica de Programação e Estrutura de Dados.
 
 ---
 
 ### 🛠️ Habilidades Técnicas
 
-- **Linguagens:** C#, HTML, CSS, TypeScript (básico), JavaScript (básico), Python (básico)
+- **Linguagens:** HTML, CSS, TypeScript, Tailwind, Git, JavaScript
 - **Ferramentas:** Git, Visual Studio, GitHub
 - **Banco de Dados:** SQL Server (em aprendizado)
 - **Outros:** Lógica de Programação, versionamento com GitHub
@@ -31,9 +31,10 @@ Sou estudante de Engenharia de Software e tenho formação técnica em Análise 
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
+| Página de Cadastro | Cadastro de uma Faculdade com armazenamento em LocalStorage | AngularJS, JavaScript, Git|
 | Calculadora em C# e JS | Aplicação de console para realizar operações matemáticas. | JavaScript |
 | Portfólio em Angular2 | Página pessoal para desenvolvimento em Angular. | Angular2 / Front-End |
-| Jogo no Roblox | Jogo em que fiz a escola e sua estrutura dentro do Roblox. | Roblox Creator |
+| Jogo no Roblox | Jogo em que fiz uma escola e sua estrutura dentro do Roblox. | Roblox Creator |
 | Jogo da Adivinhação | Jogo simples no terminal para adivinhar números. | C#, Lógica de Programação |
 | Lista de Tarefas | Lista de Atividades Dinâmica | HTML, CSS, TypeScript |
 
@@ -77,5 +78,5 @@ Ucred Serviços Financeiros<br>
 ### 🙏 Outros
 
 - Fluência em Inglês e Espanhol
-- Estudando para ser um Desenvolvedor Front-End e Engenheiro de Software
+- Estudando e praticando para ser um Desenvolvedor Front-End e um Engenheiro de Software
 - Princípios de autodisciplina, responsabilidade, honestidade e serviço ao próximo
