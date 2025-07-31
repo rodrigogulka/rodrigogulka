@@ -58,6 +58,7 @@ Concluído em: 2024<br><br>
 
 **Estagiário de T.I**<br>
 Ucred Serviços Financeiros<br>
+Funções:  Programador Front-End, Suporte Técnico, Estrutura de Redes, Manutenção de Computadores.
 2025 - Atualmente<br><br>
 
 ---
