@@ -11,19 +11,19 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou estudante de Engenharia de Software com formação técnica em Análise e Desenvolvimento de Sistemas. Gosto da programação de forma simples e clara, e estou sempre buscando aprendizado e práticas na área de desenvolvimento, com uma atenção maior em Front-End.
+Sou estudante de Engenharia de Software com formação técnica em Análise e Desenvolvimento de Sistemas. Gosto da programar de forma clara e objetiva, estou sempre buscando me aperfeiçoar e praticar na área de desenvolvimento, com uma atenção maior em Front-End.
 
-- 🎯 **Objetivo:** Desenvolver minhas habilidades como programador e me preparar tanto espiritualmente quanto tecnicamente para desafios futuros.
-- 📚 **Atualmente estudando:** AngularJS, Git, Tailwind, Lógica de Programação e Estrutura de Dados.
+- 🎯 **Objetivo:** Aprimorar minhas habilidades como programador e me preparar tanto tecnicamente quanto espiritualmente para desafios futuros.
+- 📚 **Atualmente estudando:** Python, C#, Cloud Computing.
 
 ---
 
 ### 🛠️ Habilidades Técnicas
 
 - **Linguagens:** HTML, CSS, TypeScript, Tailwind, Git, JavaScript
-- **Ferramentas:** Git, Visual Studio, GitHub
+- **Ferramentas:** GitHub, JetBrains Rider, Visual Studio Code, Angular
 - **Banco de Dados:** SQL Server (em aprendizado)
-- **Outros:** Lógica de Programação, versionamento com GitHub
+- **Outros:** Lógica de Programação e Arquitetura de Redes
 
 ---
 
@@ -32,8 +32,8 @@ Sou estudante de Engenharia de Software com formação técnica em Análise e De
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | Página de Cadastro | Cadastro de uma Faculdade com armazenamento em LocalStorage | AngularJS, JavaScript, Git|
-| Calculadora em C# e JS | Aplicação de console para realizar operações matemáticas. | JavaScript |
-| Portfólio em Angular2 | Página pessoal para desenvolvimento em Angular. | Angular2 / Front-End |
+| Calculadora| Aplicação de console para realizar operações matemáticas. | JavaScript |
+| Portfólio| Página pessoal para desenvolvimento em Angular. | AngularJS, Tailwind |
 | Jogo no Roblox | Jogo em que fiz uma escola e sua estrutura dentro do Roblox. | Roblox Creator |
 | Jogo da Adivinhação | Jogo simples no terminal para adivinhar números. | C#, Lógica de Programação |
 | Lista de Tarefas | Lista de Atividades Dinâmica | HTML, CSS, TypeScript |
@@ -75,8 +75,8 @@ Ucred Serviços Financeiros<br>
 
 ---
 
-### 🙏 Outros
+### 🔰 Outras Informações
 
-- Fluência em Inglês e Espanhol
-- Estudando e praticando para ser um Desenvolvedor Front-End e um Engenheiro de Software
-- Princípios de autodisciplina, responsabilidade, honestidade e serviço ao próximo
+- Fluente em Inglês e Espanhol  
+- Em constante evolução como Desenvolvedor Front-End e aspirante a Engenheiro de Software  
+- Movido por princípios sólidos: autodisciplina, responsabilidade, honestidade e serviço ao próximo
